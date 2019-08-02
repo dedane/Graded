@@ -1,0 +1,15 @@
+{
+  "name": "gradedserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "json.server": "json-server --watch db.json"
+    "json:server:remote":"json-server http://jsonplaceholder.typicode.com/students/db"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jsonplaceholder": "^0.3.3"
+  }
+}

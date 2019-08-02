@@ -1,0 +1,18 @@
+{
+    Students: [
+        {
+            "studentsName":"John",
+            "LabWork":25,
+            "Quiz":10,
+            "MidSem":15,
+            "Finals":20
+        },
+        {
+            "studentsName":"Mary Mucheke",
+            "LabWork":15,
+            "Quiz":20,
+            "MidSem":35,
+            "Finals":10
+        }
+    ]
+}
