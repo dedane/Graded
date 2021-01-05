@@ -18,7 +18,7 @@
     "@fortawesome/vue-fontawesome": "^0.1.6",
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/vuetify": "0.5.5",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bluebird": "^3.5.5",
     "chart.js": "^2.8.0",
     "cors": "^2.8.5",
